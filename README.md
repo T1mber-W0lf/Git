@@ -3,7 +3,7 @@
 
 1.Отже, розпочнемо з налаштування Git
 
-screenshots/photo_31_2024-09-09_12-59-49.jpg
+[screenshots/photo_31_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_31_2024-09-09_12-59-49.jpg)
 
 на цьому скрішоті я налаштував Git 
 
