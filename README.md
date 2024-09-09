@@ -72,4 +72,4 @@
 
 12. Далі я перейшов до main та знову змінив файл,і перевірив його зміни та стан репозиторію
 
-[screenshots/photo_45_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_45_2024-09-09_12-59-49.jpg)
+[screenshots/photo_44_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_44_2024-09-09_12-59-49.jpg)
