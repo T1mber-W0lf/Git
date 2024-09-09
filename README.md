@@ -59,6 +59,17 @@
 [screenshots/photo_43_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_43_2024-09-09_12-59-49.jpg)
 [screenshots/photo_51_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_51_2024-09-09_12-59-49.jpg)
 
-10. Наступним кроком я перевірив старі версії файлів в репозиторії
+10. Наступним кроком я перевірив старі версії файлів в репозиторії за допомогою команди checkout, та повернувся до main за допомогою команди switch
 
 [screenshots/photo_52_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_52_2024-09-09_12-59-49.jpg)
+
+11.Далі я створив теги для версій за домогою tag та перевірив за допомогою команди checkout
+Також можна переходити між тегами та так само перевіряти їх
+
+[screenshots/photo_53_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_53_2024-09-09_12-59-49.jpg)
+[screenshots/photo_54_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_54_2024-09-09_12-59-49.jpg)
+[screenshots/photo_50_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_50_2024-09-09_12-59-49.jpg)
+
+12. Далі я перейшов до main та знову змінив файл,і перевірив його зміни та стан репозиторію
+
+[screenshots/photo_45_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_45_2024-09-09_12-59-49.jpg)
