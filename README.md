@@ -128,3 +128,29 @@
 22.Якщо вам потрібно обїєднати гілки ви можете використовувати команду merge
 
 [screenshots/photo_2_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_2_2024-09-09_12-59-49.jpg)
+
+23.Далі я покажу, як може виглядати конфліктне обїєднання гілок, а саме ми повернулися до main, змінили файл та зафіксували зміни, але ця фіксація не була обїеднана
+з style гілкою
+
+[screenshots/photo_4_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_4_2024-09-09_12-59-49.jpg)
+
+24. Отже, давайте вирішемо цю проблему, можна її вирішити наступним чином: припинити злиття гілок за допомогою git merge --abort, після цього треба перейти в головну(main) гілку та добавити файл, зафіксувати те що ми вирішили з конфліктом, та перевірити стан
+Також будьте дуже уважними, оскільки я забув перейти до гілки, та працював в іншій гілці(помітив це коли пишу цей файл)
+
+[screenshots/photo_6_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_6_2024-09-09_12-59-49.jpg)
+
+[screenshots/photo_7_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_7_2024-09-09_12-59-49.jpg)
+
+25.Якщо вам потрібно збросити якусь гілку, ви можете використовувати команду git reset --hard
+
+[screenshots/photo_26_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_26_2024-09-09_12-59-49.jpg)
+
+26.В git э також команда rebase
+
+[screenshots/photo_20_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_20_2024-09-09_12-59-49.jpg)
+
+27.Тепер будемо обїєднувати гілки разом, для цього ми будемо використовувати команду merge 
+
+[screenshots/photo_18_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_18_2024-09-09_12-59-49.jpg)
+
+28.Далі я створив ще один репозиторій, щоб працювати з декалькіми репозиторіями
