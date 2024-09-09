@@ -76,6 +76,18 @@
 
 [screenshots/photo_55_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_55_2024-09-09_12-59-49.jpg)
 
-12. Далі я перейшов до main та знову змінив файл,і перевірив його зміни та стан репозиторію
+[screenshots/photo_56_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_56_2024-09-09_12-59-49.jpg)
+
+12.Далі я перейшов до main та знову змінив файл,і перевірив його зміни та стан репозиторію
 
 [screenshots/photo_44_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_44_2024-09-09_12-59-49.jpg)
+
+13. Наступним кроком я змінив файл добавив в нього коментар, повернувся до main, але я відмінив змінення в гіті та перевірив файл, як ви можете побачити, змінення були відхалені
+
+[screenshots/photo_40_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_40_2024-09-09_12-59-49.jpg)
+
+14.Я відмінив непрошуваний комміт, та перевірив логи
+
+[screenshots/photo_45_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_45_2024-09-09_12-59-49.jpg)
+
+[screenshots/photo_46_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_46_2024-09-09_12-59-49.jpg)
