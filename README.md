@@ -96,5 +96,33 @@
 
 [screenshots/photo_57_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_57_2024-09-09_12-59-49.jpg)
 
-16.Далі я видалив ярлик oops
+16. Добавив в файл автора та емаіл, зафіксував за допомогою commit, також щоб не робити багато коммітів, можна використовувати commit --amend -m, тим самим ми змінюємо останній комміт
 
+[screenshots/photo_9_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_9_2024-09-09_12-59-49.jpg)
+
+17.Далі я створив гілку style для того, щоб зробити css файл, після того як створив файл, зафіксував зміни
+
+[screenshots/photo_10_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_10_2024-09-09_12-59-49.jpg)
+
+18.Для перевірки файлів та для того щоб переключатися між гілками, можна використовувати команду switch
+
+[screenshots/photo_11_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_11_2024-09-09_12-59-49.jpg)
+
+19.Також можна перевіряти логи для окремих файлів, і якщо треба переімінувати файл, то можна використовувати команду mv
+
+[screenshots/photo_13_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_13_2024-09-09_12-59-49.jpg)
+
+Якщо вам потрібно перемістити один файл з однієї гілки на іншу, можна використовувати git mv де ви вказуэте файл, та каталог в який ви хочете перемістити файл
+В моєму випадку я створив каталог з назвою css та перемістив файл style.css до цього каталогу
+
+[screenshots/photo_14_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_14_2024-09-09_12-59-49.jpg)
+
+20.Для більш зручнішого перегляду каталогів, я вирішив створити README.txt файл та додав його до main
+
+[screenshots/photo_1_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_1_2024-09-09_12-59-49.jpg)
+
+21. Якщо ви хочете передивитися логи для всії гілкок, ви можете використовувати команду git log --all --graph
+
+[screenshots/photo_3_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_3_2024-09-09_12-59-49.jpg) 
+
+22.
