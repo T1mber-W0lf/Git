@@ -52,7 +52,9 @@
 [screenshots/photo_50_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_50_2024-09-09_12-59-49.jpg)
 
 9.Перевірка логів в гіті, виконується за допомогою команди git log, що я і зробив
+
 [screenshots/photo_38_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_38_2024-09-09_12-59-49.jpg)
+
 Далі я налаштував логи так, щоб можна було більш комфортніше перевіряти логи
 
 [screenshots/photo_39_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_39_2024-09-09_12-59-49.jpg)
