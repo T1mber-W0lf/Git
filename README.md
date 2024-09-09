@@ -125,4 +125,6 @@
 
 [screenshots/photo_3_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_3_2024-09-09_12-59-49.jpg) 
 
-22.
+22.Якщо вам потрібно обїєднати гілки ви можете використовувати команду merge
+
+[screenshots/photo_2_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_2_2024-09-09_12-59-49.jpg)
