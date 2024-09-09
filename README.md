@@ -38,12 +38,16 @@
 [screenshots/photo_37_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_37_2024-09-09_12-59-49.jpg)
 
 8. Далі я добавив до основного файлу деякі HTML теги, перевірив стан репозиторію, зафіксував зміни за допомогою команди git commit -m "Added standard HTML page tags" та видалив файл a.html, після цього я перевірив стан репозиторію
+
 8.1 Збереження змін в файлі:
 [screenshots/photo_47_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_47_2024-09-09_12-59-49.jpg)
+
 8.2 Перевірка стану репозиторію:
 [screenshots/photo_48_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_48_2024-09-09_12-59-49.jpg)
+
 8.3 Фіксація змін в репозиторії:
 [screenshots/photo_49_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_49_2024-09-09_12-59-49.jpg)
+
 8.4 Повторна перевірка стану репозиторію після фіксації:
 [screenshots/photo_50_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_50_2024-09-09_12-59-49.jpg)
 
