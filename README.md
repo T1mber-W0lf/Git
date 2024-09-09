@@ -154,3 +154,49 @@
 [screenshots/photo_18_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_18_2024-09-09_12-59-49.jpg)
 
 28.Далі я створив ще один репозиторій, щоб працювати з декалькіми репозиторіями
+
+[screenshots/photo_16_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_16_2024-09-09_12-59-49.jpg)
+
+29.Для того щоб переконатися, що репозиторій скопіювався корректно, можна використовувати команду ls, що показуэ файли в репозиторії
+
+[screenshots/photo_28_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_28_2024-09-09_12-59-49.jpg)
+
+30.Команда origin дозволяє перевірити віддалений репозиторій
+
+[screenshots/photo_21_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_21_2024-09-09_12-59-49.jpg)
+
+31.Для того щоб подивитися гілки які є в скопіьованому репозиторії, можна використовувати команду branch
+
+[screenshots/photo_17_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_17_2024-09-09_12-59-49.jpg)
+
+32.Далі ми внесемо зміни до основного репозиторію
+
+[screenshots/photo_30_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_30_2024-09-09_12-59-49.jpg)
+
+33.Наступним кроком ми перевіремо зміни в репозиторії home
+
+[screenshots/photo_25_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_25_2024-09-09_12-59-49.jpg)
+
+[screenshots/photo_19_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_19_2024-09-09_12-59-49.jpg)
+
+34.Тепер перенесемо зміни до репозиторію home
+
+[screenshots/photo_29_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_29_2024-09-09_12-59-49.jpg)
+
+35.Пропоную вам створити гілку для відстежування змін в віддалену гілку
+
+[screenshots/photo_23_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_23_2024-09-09_12-59-49.jpg)
+
+36.Далі створемо порожній репозиторій
+
+[screenshots/photo_22_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_22_2024-09-09_12-59-49.jpg)
+
+37.Після створення порожнього репозиторію додамо його до основного репозиторію, та додамо в нього зміни, щоб інші репозиторії змогли побачити зміни, та зафіксувати їх.
+
+[screenshots/photo_24_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_24_2024-09-09_12-59-49.jpg)
+
+38.Тепер перейдемо до репозиторію home та візьмемо зміни що ми зробили в порожньому репозиторії
+
+[screenshots/photo_27_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_27_2024-09-09_12-59-49.jpg)
+
+На цьому моє знайомство з Git закінчено, дякую за увагу!
