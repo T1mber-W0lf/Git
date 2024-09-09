@@ -92,4 +92,9 @@
 
 [screenshots/photo_46_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_46_2024-09-09_12-59-49.jpg)
 
-15. Наступним кроком я вирішив видалити комміт з вітки
+15. Наступним кроком я вирішив видалити комміт з вітки за допомогою команди git reset --hard 
+
+[screenshots/photo_57_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_57_2024-09-09_12-59-49.jpg)
+
+16.Далі я видалив ярлик oops
+
