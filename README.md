@@ -91,3 +91,5 @@
 [screenshots/photo_45_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_45_2024-09-09_12-59-49.jpg)
 
 [screenshots/photo_46_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_46_2024-09-09_12-59-49.jpg)
+
+15. Наступним кроком я вирішив видалити комміт з вітки
