@@ -25,4 +25,36 @@
 
 [screenshots/photo_35_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_35_2024-09-09_12-59-49.jpg)
 
-6.
+у моєму випадку все добре, та ніяких не збережених дій немає
+
+6.Я внес деякі зміни в файл,та перевірив стан репозиторію
+
+[screenshots/photo_36_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_36_2024-09-09_12-59-49.jpg)
+
+Як ви можете побачити, мені гіт показав, що файл було змінено, для того щоб зберегти зміни, я знову добавив файл до репозиторію
+
+7.Наступним кроком я зробив фіксацію деяких файлів, перед цим я добавив файл a.html до репозиторію, але мені показало повідомлення про те, що інших файлів не існує(а саме файли b.html та c.html), та зафіксував зміни в репозиторії за допомогою комманди git commit
+
+[screenshots/photo_37_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_37_2024-09-09_12-59-49.jpg)
+
+8. Далі я добавив до основного файлу деякі HTML теги, перевірив стан репозиторію, зафіксував зміни за допомогою команди git commit -m "Added standard HTML page tags" та видалив файл a.html, після цього я перевірив стан репозиторію
+8.1 Збереження змін в файлі:
+[screenshots/photo_47_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_47_2024-09-09_12-59-49.jpg)
+8.2 Перевірка стану репозиторію:
+[screenshots/photo_48_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_48_2024-09-09_12-59-49.jpg)
+8.3 Фіксація змін в репозиторії:
+[screenshots/photo_49_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_49_2024-09-09_12-59-49.jpg)
+8.4 Повторна перевірка стану репозиторію після фіксації:
+[screenshots/photo_50_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_50_2024-09-09_12-59-49.jpg)
+
+9.Перевірка логів в гіті, виконується за допомогою команди git log, що я і зробив
+[screenshots/photo_38_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_38_2024-09-09_12-59-49.jpg)
+Далі я налаштував логи так, щоб можна було більш комфортніше перевіряти логи
+
+[screenshots/photo_39_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_39_2024-09-09_12-59-49.jpg)
+[screenshots/photo_43_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_43_2024-09-09_12-59-49.jpg)
+[screenshots/photo_51_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_51_2024-09-09_12-59-49.jpg)
+
+10. Наступним кроком я перевірив старі версії файлів в репозиторії
+
+[screenshots/photo_52_2024-09-09_12-59-49.jpg](https://github.com/T1mber-W0lf/Git/blob/main/screenshots/photo_52_2024-09-09_12-59-49.jpg)
